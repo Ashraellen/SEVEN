@@ -284,6 +284,25 @@ Chapter 3 section-by-section external-editor pass is now complete:
 
 `EDITORIAL PASS COMPLETE != CHAPTER AUTHOR ACCEPTED`
 
+## Chapter 4 §4.1 editorial integration
+
+Current file:
+`GREED_RU_CH04_SEC01_PF_v04.md`
+
+Status:
+`EDITORIAL CANDIDATE / EXTERNAL EDITOR PILOT INTEGRATED AS-IS / NOT YET CONTROLLER-REVIEWED / NOT AUTHOR ACCEPTED / PRE-FINAL / NOT FINAL`
+
+Accepted decisions:
+- action-scene compression performed by paragraph joining, not event deletion;
+- removed explicit authorial warning about later significance;
+- retained phone recording / Firooz / territory setup;
+- retained `— Ай, блядь. Ну что будет, то будет.` as the action threshold;
+- retained `Вот и вся математика.`;
+- retained `Никто никого не спасал...`;
+- final line is `Патрульные шли дальше.`
+
+AUTHOR approved integration into APM; section-level AUTHOR ACCEPTED remains a separate gate.
+
 ## Important current boundary
 
 Chapter 4 §4.5:
