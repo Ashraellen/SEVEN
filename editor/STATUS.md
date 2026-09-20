@@ -303,6 +303,27 @@ Accepted decisions:
 
 AUTHOR approved integration into APM; section-level AUTHOR ACCEPTED remains a separate gate.
 
+## Chapter 4 §4.2 editorial integration
+
+Current file:
+`GREED_RU_CH04_SEC02_PF_v03.md`
+
+Status:
+`EDITORIAL CANDIDATE / EXTERNAL EDITOR PILOT INTEGRATED AS-IS / NOT YET CONTROLLER-REVIEWED / NOT AUTHOR ACCEPTED / PRE-FINAL / NOT FINAL`
+
+Accepted decisions:
+- compressed repeated thesis that physical danger no longer fits financial language;
+- retained `Раньше опасность имела цифры... У площади этого языка не было.`;
+- retained `То есть хотел невозможного.`;
+- retained `— Я хочу, чтобы тебя не били из-за моих денег. — Наших.`;
+- retained relation shift away from `моё дело, Павло помогает`;
+- retained Noel's unpleasant relief when patrol presence lets him avoid testing whether he would leave the car;
+- removed another `Не наглей` recurrence;
+- retained `Нам нужна какая-то защита.`;
+- retained the closing task that leads directly to §4.3.
+
+AUTHOR approved integration into APM; section-level AUTHOR ACCEPTED remains a separate gate.
+
 ## Important current boundary
 
 Chapter 4 §4.5:
