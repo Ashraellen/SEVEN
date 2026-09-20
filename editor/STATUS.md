@@ -1,6 +1,6 @@
 # CURRENT EDITORIAL STATUS
 
-Updated: 2026-09-19
+Updated: 2026-09-20
 
 ## Working corpus
 
@@ -155,6 +155,27 @@ Accepted decisions:
 
 Percentage continuity:
 §2.2 remains in the 15/5 stage: participant 15%, Noel 5%, total 20% on Noel's side.
+
+## Chapter 2 §2.3 editorial integration
+
+Current file:
+`GREED_RU_CH02_SEC03_PF_v02.md`
+
+Status:
+`EDITORIAL CANDIDATE / EXTERNAL EDITOR PILOT INTEGRATED / ONE AUTHOR-APPROVED SURGICAL CUT / NOT YET CONTROLLER-REVIEWED / NOT AUTHOR ACCEPTED / PRE-FINAL / NOT FINAL`
+
+Accepted decisions:
+- external editor pilot adopted as the base;
+- removed `Дойдём — скажу.` after `— Вот и не буду.`;
+- did not restore the explicit `хватает / всегда было мало` thematic block;
+- retained the short accumulation line `И каждый раз можно сказать: это же почти то же самое.`;
+- reserved the fuller accumulated-system conclusion for later §4.5;
+- retained `Я соглашался... На каждый следующий кусок... Но это не отменяет куски.`;
+- opening no longer duplicates §3.5 exact `Прокурор перестал печатать.`;
+- retained `Очень удобная юрисдикция`, `Вы часто вспоминаете его в настоящем времени`, and `Деньги уплачены. — Теперь вижу проблему глубже`;
+- retained the final transition `— Павло.`
+
+AUTHOR approved this integration decision, but section-level AUTHOR ACCEPTED status remains a separate gate.
 
 ## Important current boundary
 
