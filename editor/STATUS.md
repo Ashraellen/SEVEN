@@ -260,6 +260,30 @@ Accepted decisions:
 
 AUTHOR approved integration into APM; section-level AUTHOR ACCEPTED remains a separate gate.
 
+## Chapter 3 §3.5 editorial integration
+
+Current file:
+`GREED_RU_CH03_SEC05_PF_v02.md`
+
+Status:
+`EDITORIAL CANDIDATE / EXTERNAL EDITOR PILOT INTEGRATED WITH ONE SURGICAL CUT / NOT YET CONTROLLER-REVIEWED / NOT AUTHOR ACCEPTED / PRE-FINAL / NOT FINAL`
+
+Accepted decisions:
+- removed explicit callback `Ноэль вспомнил столб и телефон, наведённый на бумажный лист.`;
+- retained `объявления, соцсети, публичные обращения` as the quiet payoff to §3.1's pole/photo beat;
+- retained factual decrease in Noel's physical participation and later stronger interpretation `оставить прибыль и вынести неприятную часть наружу`;
+- retained concrete benefit list without naming GREED;
+- retained `На основании Павло. — Это очень содержательно.`;
+- retained Noel's internal social-circle boundary;
+- retained `Присутствие. — В чём разница? — Сейчас понимаю, что почти ни в чём.`;
+- retained `Меня тогда больше смущало, если машина стояла без водителя два дня. — Удобный масштаб проблем.`;
+- retained bridge ending `— Давайте по порядку.`
+
+Chapter 3 section-by-section external-editor pass is now complete:
+§3.1 PF v03 / §3.2 PF v02 / §3.3 PF v03 / §3.4 PF v05 / §3.5 PF v02.
+
+`EDITORIAL PASS COMPLETE != CHAPTER AUTHOR ACCEPTED`
+
 ## Important current boundary
 
 Chapter 4 §4.5:
