@@ -26,7 +26,7 @@ Current file:
 `GREED_RU_CH01_SEC02_PF_v03.md`
 
 Status:
-`EDITORIAL CANDIDATE / EXTERNAL EDITOR PILOT INTEGRATED / NOT YET CONTROLLER-REVIEWED / NOT AUTHOR ACCEPTED / PRE-FINAL / NOT FINAL`
+`AUTHOR ACCEPTED / PRE-FINAL LOCKED / NOT FINAL`
 
 Accepted editorial choices in this candidate:
 - compressed garage scene while preserving the necessary financial pressure and Smart fleet decline;
