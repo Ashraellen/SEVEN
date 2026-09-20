@@ -199,6 +199,27 @@ Accepted decisions:
 
 AUTHOR approved integration into APM; section-level AUTHOR ACCEPTED remains a separate gate.
 
+## Chapter 3 §3.2 editorial integration
+
+Current file:
+`GREED_RU_CH03_SEC02_PF_v02.md`
+
+Status:
+`EDITORIAL CANDIDATE / EXTERNAL EDITOR PILOT INTEGRATED AS-IS / CONTINUITY CORRECTED / NOT YET CONTROLLER-REVIEWED / NOT AUTHOR ACCEPTED / PRE-FINAL / NOT FINAL`
+
+Accepted decisions:
+- corrected Tomasz continuity to `человек, с которым я уже встречался по делу`; he came through Kamil and was not an old rental contact;
+- removed unexplained Pavlo prior-knowledge hint about Tomasz;
+- compressed repeated instruction loops while preserving Noel as decision point;
+- retained Pavlo's `Слишком спокойно...` observation and his self-limit `Может, я накручиваю. Я его первый раз вижу.`;
+- retained `Потому что ты попросил работу, а не дружескую услугу`;
+- retained the small-task logic `Но задача действительно была маленькой. Именно поэтому он выбрал её.`;
+- removed another `телефон экраном вниз` recurrence;
+- retained recovered-time ending `Но двадцать семь всё ещё были его.`;
+- §3.3 editorial pass should resolve the later repeated writing/text beat.
+
+AUTHOR approved integration into APM; section-level AUTHOR ACCEPTED remains a separate gate.
+
 ## Important current boundary
 
 Chapter 4 §4.5:
