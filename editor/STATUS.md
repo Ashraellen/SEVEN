@@ -135,6 +135,27 @@ Accepted decisions:
 Percentage continuity:
 §2.1 remains in the 15/5 stage: participant 15%, Noel 5%, total 20% on Noel's side.
 
+## Chapter 2 §2.2 editorial integration
+
+Current file:
+`GREED_RU_CH02_SEC02_PF_v03.md`
+
+Status:
+`EDITORIAL CANDIDATE / EXTERNAL EDITOR PILOT INTEGRATED / CLEANUP ALIGNED TO EDITOR CUT LIST / NOT YET CONTROLLER-REVIEWED / NOT AUTHOR ACCEPTED / PRE-FINAL / NOT FINAL`
+
+Accepted decisions:
+- preserved the compression strategy that makes faces blur through repeated naming/confusion rather than explanatory summary;
+- retained `два Марека, три Пиотра и человек, которого прислал человек`;
+- retained `Ну, человек`, `Сегодня день доверия`, Ilya's fast `Хорошо. Значит нет`, `Ты онлайн был`, and `Ноэль, я других слов уже боюсь`;
+- retained Tomasz's `Деньги нужны. — Ещё? — А должно быть ещё?`;
+- retained handshake detail `Ладонь была сухая, тёплая`;
+- did not restore the explanatory sentence about physically experiencing the difference between partial knowledge and total unfamiliarity;
+- retained final `Какой Пиотр? — Не знаю. Пиотр. ... Начнём с этого.`;
+- removed two residual catalogue sentences about explaining by messages and bringing three people, because the editor explicitly listed them as intended cuts.
+
+Percentage continuity:
+§2.2 remains in the 15/5 stage: participant 15%, Noel 5%, total 20% on Noel's side.
+
 ## Important current boundary
 
 Chapter 4 §4.5:
