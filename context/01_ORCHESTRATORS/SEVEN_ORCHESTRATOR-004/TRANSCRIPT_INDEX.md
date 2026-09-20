@@ -1,6 +1,6 @@
 # SEVEN — SEVEN_ORCHESTRATOR-004 — TRANSCRIPT INDEX
 
-Status: ACTIVE / EXACT COVERAGE TO VERIFIED BOUNDARY
+Status: RETIRED / EXACT COVERAGE COMPLETE
 Physical chat: SEVEN_ORCHESTRATOR-004
 Logical project: SEVEN
 Predecessor: SEVEN_ORCHESTRATOR-003
@@ -26,8 +26,8 @@ USER SHOULD NEVER HAVE TO REMIND
 
 ```text
 unsaved_exchange_count = 0
-transcript_runtime_state = SAFE
-last_verified_transcript_boundary = EXCHANGE 050 / TRANSCRIPT_0017.md
+transcript_runtime_state = RETIRED / NO DEBT
+last_verified_transcript_boundary = EXCHANGE 085 / TRANSCRIPT_0025.md
 current_transcript_index = Projects/SEVEN/Recovery/Transcripts/SEVEN_ORCHESTRATOR-004/TRANSCRIPT_INDEX.md
 ```
 
@@ -121,10 +121,50 @@ Counter reset is valid only after exact transcript write plus path/commit verifi
 - creation commit: `e6b94dc4acfd3cdb4ff120dc6d57e3e15ddb2cfa`;
 - extended through EXCHANGE 050 commit: `713781800ee25ee8450b77b53e467b2fd83f6a0e`.
 
+`TRANSCRIPT_0018.md`
+- exchanges 050–053 preserved exactly as available;
+- SEC05 PF v03 production/review and creation of public SEVEN editorial mirror;
+- creation commit: `a6b74791d65142d729765d7d1df17112927c7481`.
+
+`TRANSCRIPT_0019.md`
+- exchanges 054–059 preserved exactly as available;
+- AUTHOR expanded public editor context mirror, root README, reviewed editor pilot CH01 SEC01, and specified the continuity correction that Noel and Ilya exchange contacts before Noel sends bank account details;
+- creation commit: `824c9c52b1c7e1f7b21112a82b84fb6a54fcf48f`.
+
+`TRANSCRIPT_0020.md`
+- exchanges 060–064 preserved exactly as available;
+- CH01 SEC02 editor integration was saved as PF v03; Claude GitHub connector write-access issue was investigated; external editor supplied CH01 SEC03 PILOT v01 with two continuity/structure flags;
+- creation commit: `a4bb67ecb0408ba2eca29abddd892076547b7bec`.
+
+`TRANSCRIPT_0021.md`
+- exchanges 065–070 preserved exactly as available;
+- CH01 SEC03 PF v04 was created from editor pilot with playground relocation; editor accepted that relocation; §2.1 kitchen-light image was reviewed and retained as intentional motif; AUTHOR formally accepted CH01 SEC02 PF v03;
+- creation commit: `ca2c6a12743ad7fa0d19ec1d5bc28f687afa992e`.
+
+`TRANSCRIPT_0022.md`
+- exchanges 071–075 preserved exactly as available;
+- AUTHOR formally accepted CH01 SEC01 PF v06 and CH01 SEC03 PF v04; external editor supplied CH01 SEC04 PILOT v01 with frame experiment and a percentage-continuity flag against §4.4;
+- completion commit: `8224f9178bddcc42ce9194fec1111d4ed1acb48e`.
+
+`TRANSCRIPT_0023.md`
+- exchanges 076–079 preserved exactly as available;
+- CH01 SEC04 PF v03 and CH01 SEC05 PF v03 were integrated; percentage continuity map was corrected to include the 15/5 middle stage; Chapter 1 was structurally accepted as current editorial assembly; external editor supplied CH02 SEC01 PILOT v01 with three flags;
+- creation commit: `d3b28b16630fa1e4ec24863efabb0e57fd86eb83`.
+
+`TRANSCRIPT_0024.md`
+- exchanges 080–084 preserved exactly as available;
+- CH02 SEC01 PF v04 and CH02 SEC02 PF v03 editorial integrations were completed; AUTHOR requested succession check; ORCHESTRATOR-004 determined succession should occur before §2.3 and began formal save/handoff;
+- creation commit: `54f085d6b15a2b137346eabb40e6da615944083e`.
+
+`TRANSCRIPT_0025.md`
+- exchange 085 preserved exactly as available;
+- durable state refreshed, Executor state reset to no active job, corpus override added, 004→005 handoff and 005 launch created, public context sync completed, ORCHESTRATOR-004 retired with no transcript debt;
+- creation commit: `268e362255aec663cae6486c8d6466145ec6937e`.
+
 ## Coverage
 
 First exact preserved exchange: EXCHANGE 001.
-Latest exact preserved exchange: EXCHANGE 050.
+Latest exact preserved exchange: EXCHANGE 085.
 Known gaps in SEVEN_ORCHESTRATOR-004: NONE.
 
 Predecessor gap remains isolated in predecessor contour and is not inherited as verbatim evidence:
