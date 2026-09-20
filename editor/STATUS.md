@@ -239,6 +239,27 @@ Accepted decisions:
 
 AUTHOR approved this integration decision; section-level AUTHOR ACCEPTED remains a separate gate.
 
+## Chapter 3 §3.4 editorial integration
+
+Current file:
+`GREED_RU_CH03_SEC04_PF_v05.md`
+
+Status:
+`EDITORIAL CANDIDATE / EXTERNAL EDITOR PILOT INTEGRATED AS-IS / NOT YET CONTROLLER-REVIEWED / NOT AUTHOR ACCEPTED / PRE-FINAL / NOT FINAL`
+
+Accepted decisions:
+- special first independent Pavlo cycle preserved exactly: participant 15 / Pavlo 5 / Noel 0;
+- future ordinary split preserved: participant 10 / Pavlo 5 / Noel 5;
+- main sum remains Noel's responsibility;
+- retained `— Один?` as an early fear-for-Pavlo beat with later CH04 payoff;
+- retained `Хорошо, папа`;
+- retained Smart handoff `— Не тебе. — А кому? — Работе.`;
+- retained Pavlo's explicit freedom to refuse;
+- did not restore `Он уехал с ролью`;
+- accepted concrete ending on the main sum remaining under Noel's responsibility.
+
+AUTHOR approved integration into APM; section-level AUTHOR ACCEPTED remains a separate gate.
+
 ## Important current boundary
 
 Chapter 4 §4.5:
