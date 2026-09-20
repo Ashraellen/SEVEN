@@ -220,6 +220,25 @@ Accepted decisions:
 
 AUTHOR approved integration into APM; section-level AUTHOR ACCEPTED remains a separate gate.
 
+## Chapter 3 §3.3 editorial integration
+
+Current file:
+`GREED_RU_CH03_SEC03_PF_v03.md`
+
+Status:
+`EDITORIAL CANDIDATE / EXTERNAL EDITOR PILOT INTEGRATED WITH ONE SURGICAL CUT / NOT YET CONTROLLER-REVIEWED / NOT AUTHOR ACCEPTED / PRE-FINAL / NOT FINAL`
+
+Accepted decisions:
+- removed only the second `— Не наглей.` in the section;
+- retained `— Ты становишься наглым. — Я таким приехал.` as the stronger private-language beat;
+- retained `Потому что теперь иногда знаю.` as Pavlo's next learning step;
+- retained `Пока нравится, что я не сижу дома.` plus the wedding-ring trace;
+- compressed the repeated writing gesture to `Не таблицы. Текст.`;
+- accepted the experimental ending where Noel waits for a follow-up joke/message and none arrives;
+- §3.4 baseline provides an immediate local payoff: Noel calls Pavlo himself at 09:47.
+
+AUTHOR approved this integration decision; section-level AUTHOR ACCEPTED remains a separate gate.
+
 ## Important current boundary
 
 Chapter 4 §4.5:
