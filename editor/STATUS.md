@@ -44,7 +44,7 @@ Current file:
 `GREED_RU_CH01_SEC03_PF_v04.md`
 
 Status:
-`EDITORIAL CANDIDATE / EXTERNAL EDITOR PILOT INTEGRATED / AUTHOR-DIRECTED SCENE RELOCATION / NOT YET CONTROLLER-REVIEWED / NOT AUTHOR ACCEPTED / PRE-FINAL / NOT FINAL`
+`AUTHOR ACCEPTED / PRE-FINAL LOCKED / NOT FINAL`
 
 Accepted editorial choices in this candidate:
 - compressed repeated explanation without cutting the section's core psychological material;
