@@ -113,6 +113,28 @@ Chapter 1 arc:
 Boundary note:
 The identical opening phrase `Прокурор печатал двумя пальцами` in §1.1 and §2.1 is not being established as a chapter-opening ritual. §1.1 keeps the original introduction; §2.1 should be varied during Chapter 2 editorial work while preserving the prosecutor's two-finger typing trait.
 
+## Chapter 2 §2.1 editorial integration
+
+Current file:
+`GREED_RU_CH02_SEC01_PF_v04.md`
+
+Status:
+`EDITORIAL CANDIDATE / EXTERNAL EDITOR PILOT INTEGRATED / ONE APPROVED SURGICAL LINE CHANGE / NOT YET CONTROLLER-REVIEWED / NOT AUTHOR ACCEPTED / PRE-FINAL / NOT FINAL`
+
+Accepted decisions:
+- Chapter 2 opening rephrased so `Прокурор печатал двумя пальцами` remains unique to §1.1;
+- rental-system explanation compressed around `Таблица давала данные. Телефон возвращал человека.`;
+- candidate catalogue reduced while preserving mediation growth;
+- retained `Мне цифра понятна`, `Когда сплю. Иногда.`, and Noel's discomfort with a participant asking whether he can later take more;
+- retained kitchen-window light motif as intentional escalation;
+- retained prosecutor conclusion that lower trust moved Noel closer to the money;
+- retained `И тогда лица начали путаться.`;
+- did not invent a physical money-carrier detail not established by canon;
+- replaced Vitaliy's pilot line `Одно другому не мешает` with `Я не говорил, что плохо` to preserve the former phrase for Noel's later/final formulation.
+
+Percentage continuity:
+§2.1 remains in the 15/5 stage: participant 15%, Noel 5%, total 20% on Noel's side.
+
 ## Important current boundary
 
 Chapter 4 §4.5:
