@@ -83,6 +83,36 @@ Percentage continuity verified:
 - §4.4 adds a separate 5% protection cost, creating 25% for that later structure.
 Continuity map: `10/10 → 15/5 → 10/5/5 → +5 protection`. The 15/5 middle stage is intentional and must not be normalized away.
 
+## Chapter 1 §1.5 editorial integration
+
+Current file:
+`GREED_RU_CH01_SEC05_PF_v03.md`
+
+Status:
+`EDITORIAL CANDIDATE / EXTERNAL EDITOR PILOT INTEGRATED / CHAPTER-ENDING STRUCTURE ACCEPTED / NOT YET CONTROLLER-REVIEWED / NOT AUTHOR ACCEPTED / PRE-FINAL / NOT FINAL`
+
+Accepted editorial choices:
+- compressed repeated Noel↔Ilya work-transfer exchanges while preserving the strongest line: `Это люди, которых знаю я. — Именно поэтому я вам и плачу.`;
+- preserved Sergey's warning that Noel can keep explaining to himself that something is "not quite it yet";
+- preserved `мог заработать и испугался`, the five-message sequence, `своего человека`, repair-cost juxtaposition, and `за что столько получаешь?`;
+- preserved Noel's voluntary redistribution from 10/10 to 15/5;
+- retained Nina's daughter in the adjacent-room phone call as living-life context;
+- no prosecutor scene added inside §1.5;
+- retained closing return of Ilya's `Есть кто-нибудь ещё?`, which links directly into §2.1 `Дальше стало мало двух человек`.
+
+Chapter 1 structural editorial verdict:
+`STRUCTURALLY ACCEPTED AS CURRENT EDITORIAL ASSEMBLY / SECTION AUTHOR GATES REMAIN SEPARATE / NOT FINAL`
+
+Chapter 1 arc:
+§1.1 accidental contact and refusal of money →
+§1.2 proposition reaches Noel directly →
+§1.3 Noel begins finding a person himself →
+§1.4 first participant completes a cycle and Noel receives his own share →
+§1.5 Noel becomes an operating intermediary who selects, explains, accompanies, redistributes, and is asked for the next person.
+
+Boundary note:
+The identical opening phrase `Прокурор печатал двумя пальцами` in §1.1 and §2.1 is not being established as a chapter-opening ritual. §1.1 keeps the original introduction; §2.1 should be varied during Chapter 2 editorial work while preserving the prosecutor's two-finger typing trait.
+
 ## Important current boundary
 
 Chapter 4 §4.5:
