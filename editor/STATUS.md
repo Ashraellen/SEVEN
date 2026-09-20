@@ -177,6 +177,28 @@ Accepted decisions:
 
 AUTHOR approved this integration decision, but section-level AUTHOR ACCEPTED status remains a separate gate.
 
+## Chapter 3 §3.1 editorial integration
+
+Current file:
+`GREED_RU_CH03_SEC01_PF_v03.md`
+
+Status:
+`EDITORIAL CANDIDATE / EXTERNAL EDITOR PILOT INTEGRATED AS-IS / NOT YET CONTROLLER-REVIEWED / NOT AUTHOR ACCEPTED / PRE-FINAL / NOT FINAL`
+
+Accepted decisions:
+- compressed extended friendly warm-up while preserving Pavlo's return, divorce, and job search;
+- removed age contradiction after Noel's `мне уже не двадцать пять`;
+- replaced duplicated `Вот за это я тебя и люблю` with `Поэтому я и пришёл к тебе, а не к кому-то другому.`;
+- retained `Раньше ты говорил «у меня машины». Теперь говоришь «некоторые».`;
+- retained the `надо ещё немного лучше → сам какой-то недоделанный` line;
+- retained interrupted `Проблема не в том, что хочется лучше. ... Потом.`;
+- retained `За последние недели он слишком часто искал людей. Сейчас человек сидел напротив сам.`;
+- retained `Сколько?` as a character/motif beat, with caution against mechanical repetition;
+- retained the photographed notice on the pole as immediate characterization, not a required future plot payoff;
+- retained ending `Павло ещё не получил никакой работы. Но уже что-то нашёл.`
+
+AUTHOR approved integration into APM; section-level AUTHOR ACCEPTED remains a separate gate.
+
 ## Important current boundary
 
 Chapter 4 §4.5:
