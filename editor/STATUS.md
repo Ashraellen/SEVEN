@@ -61,6 +61,27 @@ Continuity flag for next section:
 - current §1.4 begins with `— Не здесь, — сказал он.`, while PF v04 §1.3 now ends with `— Не здесь.`
 - the §1.4 editorial pass must remove/rewrite that duplicate boundary line rather than repeat it.
 
+## Chapter 1 §1.4 editorial integration
+
+Current file:
+`GREED_RU_CH01_SEC04_PF_v03.md`
+
+Status:
+`EDITORIAL CANDIDATE / EXTERNAL EDITOR PILOT INTEGRATED / CONTINUITY CHECKED / NOT YET CONTROLLER-REVIEWED / NOT AUTHOR ACCEPTED / PRE-FINAL / NOT FINAL`
+
+Accepted editorial choices in this candidate:
+- §1.3→§1.4 seam repaired: §1.4 now opens with `А где?` after §1.3 ends on `Не здесь.`;
+- Andrey's `Сколько?` from §1.3 is answered immediately: `Десять процентов. Тебе.`;
+- compressed bargaining/repetition and skipped low-yield interstitial calls;
+- preserved `не белая история`, `за свои десять`, `отложим лет на сорок`, `полиция не приехала`, cashier scene, coffee exchange, and final phone-in-pocket beat;
+- retained the two-line prosecutor ghost: `Сумму он потом не смог вспомнить. Прокурор назвал её, не заглядывая в папку.`
+
+Percentage continuity verified:
+- early §1.4: 10% participant + 10% Noel = 20% on Noel's side;
+- later Pavlo structure: 10% participant + 5% Pavlo + 5% Noel = same 20% on Noel's side;
+- §4.4 adds a separate 5% protection cost, creating 25% for that later structure.
+This is evolution of the distribution, not a contradiction.
+
 ## Important current boundary
 
 Chapter 4 §4.5:
