@@ -78,9 +78,10 @@ Accepted editorial choices in this candidate:
 
 Percentage continuity verified:
 - early §1.4: 10% participant + 10% Noel = 20% on Noel's side;
-- later Pavlo structure: 10% participant + 5% Pavlo + 5% Noel = same 20% on Noel's side;
+- §1.5 / §2.2: 15% participant + 5% Noel = same 20%;
+- §3.4 ordinary Pavlo structure: 10% participant + 5% Pavlo + 5% Noel = same 20%;
 - §4.4 adds a separate 5% protection cost, creating 25% for that later structure.
-This is evolution of the distribution, not a contradiction.
+Continuity map: `10/10 → 15/5 → 10/5/5 → +5 protection`. The 15/5 middle stage is intentional and must not be normalized away.
 
 ## Important current boundary
 
