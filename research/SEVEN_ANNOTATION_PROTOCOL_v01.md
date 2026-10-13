@@ -184,9 +184,9 @@ This would justify continued use of the seven labels as a research vocabulary. I
 
 The first corpus is an **instrument-development corpus**, not an empirical sample.
 
-It should contain 24 units:
+It contains 28 units:
 
-- 8 synthetic single-focus cases;
+- 12 synthetic single-focus / control cases;
 - 8 synthetic mixed-motive cases;
 - 4 excerpts or paraphrased situations from the developing GREED manuscript;
 - 4 externally sourced or public-domain behavioural cases added only after provenance review.
@@ -269,7 +269,7 @@ A completed pilot should produce:
 
 1. `research/annotation/CORPUS_v01.md`
 2. `research/annotation/CODEBOOK_v01.md`
-3. `research/annotation/RATINGS_v01.csv`
+3. `research/annotation/RATINGS_TEMPLATE_v01.csv` → completed coder files / merged `RATINGS_v01.csv` after collection
 4. `research/annotation/RELIABILITY_REPORT_v01.md`
 5. `research/annotation/DISAGREEMENT_REVIEW_v01.md`
 
@@ -287,7 +287,6 @@ READY:
 - corpus composition rules.
 
 NOT YET COMPLETE:
-- frozen pilot corpus;
 - recruited independent coders;
 - collected ratings;
 - reliability calculation;
