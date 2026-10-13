@@ -6,7 +6,7 @@ The traditional labels — **greed, envy, pride, wrath, lust, gluttony, sloth** 
 
 This repository is the **public editorial and research workspace** for the project.
 
-Public project page: **[SEVEN — Human Vulnerabilities Research](https://www.ashraellen.com/ru/projects/seven/)** (Russian).
+Public website: **[Ashraellen Research](https://www.ashraellen.com/en/research/)** — English entry point.\n\n**Ashraellen.com is multilingual.** If English is not convenient, open [Ashraellen.com](https://www.ashraellen.com/) and choose your language; the Research section is available through the site’s language versions. The canonical SEVEN research documentation remains this English repository.
 
 ## Which part is for you?
 
