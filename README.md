@@ -18,6 +18,20 @@ The project is still under active development.
 
 `PRE-FINAL != FINAL`
 
+## Research pilot
+
+SEVEN now includes a first public pilot for testing whether the seven working categories can be distinguished reproducibly by independent readers.
+
+Start here:
+
+- **[research/SEVEN_ANNOTATION_PROTOCOL_v01.md](research/SEVEN_ANNOTATION_PROTOCOL_v01.md)** — pilot design, operational definitions, rater rules, reliability measure, and revision conditions.
+- **[research/annotation/CORPUS_v01.md](research/annotation/CORPUS_v01.md)** — frozen 24-unit instrument-development corpus.
+- **[research/annotation/CODEBOOK_v01.md](research/annotation/CODEBOOK_v01.md)** — coder-facing definitions and instructions.
+- **[research/annotation/RATINGS_TEMPLATE_v01.csv](research/annotation/RATINGS_TEMPLATE_v01.csv)** — blank ratings sheet.
+
+This is a method-development pilot, not validation of a seven-factor psychological theory. The corpus includes synthetic, manuscript-derived, and source-informed composite cases so that the coding instructions can be stress-tested before any externally assembled empirical corpus is attempted.
+
+
 ## For the editor — start here
 
 If you are reading or editing the manuscript, use this order:
@@ -90,6 +104,12 @@ Preferred workflow:
 SEVEN/
 ├── README.md
 ├── EDITOR_GUIDE.md
+├── research/
+│   ├── SEVEN_ANNOTATION_PROTOCOL_v01.md
+│   └── annotation/
+│       ├── CORPUS_v01.md
+│       ├── CODEBOOK_v01.md
+│       └── RATINGS_TEMPLATE_v01.csv
 ├── editor/
 │   ├── STATUS.md
 │   └── Current/              # current editorial manuscript
