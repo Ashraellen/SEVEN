@@ -18,23 +18,23 @@ The project is still under active development.
 
 `PRE-FINAL != FINAL`
 
-## Research pilot
+## Research
 
-The current candidate research instrument is **v02**. It is under external review and is **not frozen yet**.
+The current research instrument is **v03 — REVIEW CANDIDATE / NOT FROZEN**. No rater study has started.
 
-Start here:
+The single public entry point is:
 
-- **[research/SEVEN_ANNOTATION_PROTOCOL_v02.md](research/SEVEN_ANNOTATION_PROTOCOL_v02.md)** — current candidate protocol.
-- **[research/annotation/CODER_CORPUS_v02.md](research/annotation/CODER_CORPUS_v02.md)** — rater-safe 42-case corpus with neutral display IDs and no source/stratum leakage.
-- **[research/annotation/CODEBOOK_v02.md](research/annotation/CODEBOOK_v02.md)** — coder-facing definitions and two-stage instructions.
-- **[research/annotation/RATINGS_TEMPLATE_v02.csv](research/annotation/RATINGS_TEMPLATE_v02.csv)** — blank ratings sheet.
-- **[research/annotation/CORPUS_ANALYST_KEY_v02.md](research/annotation/CORPUS_ANALYST_KEY_v02.md)** — analyst-only construction key; do not give this file to raters.
-- **[research/annotation/CORPUS_MASTER_v02.json](research/annotation/CORPUS_MASTER_v02.json)** — analyst master used to generate the rater packet.
-- **[research/annotation/build_coder_packet.py](research/annotation/build_coder_packet.py)** — deterministic packet builder.
+**[research/README.md](research/README.md)**
 
-v02 is an instrument-development pilot, not validation of a seven-factor psychological theory. It includes four central cases for each category plus mixed-mechanism cases, collects free motive descriptions before labels, and remains editable until the external review is complete.
+It explains the current v03 protocol, audit and pretest sequence, external-stratum procedure, public instruments, privacy boundary, claims limits, and development history.
 
-The earlier **v01** files are retained as development history and should not be distributed to raters.
+The v03 design deliberately separates the **public method** from the **private blinded materials**. The protocol, codebook, instructions, audit/external-selection procedures, templates and reproducibility scripts are public. The draft master corpus, analyst key, case orders and study salt are intentionally not public before the round closes, because publishing them would break the blind design.
+
+Current pre-freeze order:
+
+`independent audit → pretest → independent external stratum → final check → commitment/timestamp → freeze`
+
+v01 and v02 remain in the repository as development history. They are not the current instrument and should not be distributed to raters.
 
 ## For the editor — start here
 
@@ -109,22 +109,32 @@ SEVEN/
 ├── README.md
 ├── EDITOR_GUIDE.md
 ├── research/
-│   ├── SEVEN_ANNOTATION_PROTOCOL_v01.md
+│   ├── README.md                         # current research entry point
+│   ├── SEVEN_ANNOTATION_PROTOCOL_v03.md  # current protocol; not frozen
+│   ├── .gitignore                        # safeguards private/blinded material
 │   └── annotation/
-│       ├── CORPUS_v01.md
-│       ├── CODEBOOK_v01.md
-│       └── RATINGS_TEMPLATE_v01.csv
+│       ├── README_DECISIONS_v03.md
+│       ├── CODEBOOK_v03.md
+│       ├── ROUND_A_INSTRUCTIONS_v03.md
+│       ├── DESCRIPTION_CODING_INSTRUCTIONS_v03.md
+│       ├── AUDIT_CHECKLIST_v03.md
+│       ├── EXTERNAL_SELECTION_PROCEDURE_v03.md
+│       ├── *_TEMPLATE.csv
+│       ├── build_packets_v03.py
+│       └── analyze_ratings_v03.py
 ├── editor/
 │   ├── STATUS.md
-│   └── Current/              # current editorial manuscript
+│   └── Current/                         # current editorial manuscript
 ├── archive/
-│   └── PreFinal/             # all preserved PreFinal versions
+│   └── PreFinal/                        # preserved PreFinal versions
 └── context/
     ├── README.md
     ├── SEVEN_VULNERABILITIES_SOURCE.md
-    ├── 00_ORIGINS/           # earliest surviving project sources
-    └── 01_ORCHESTRATORS/     # author–AI development transcripts
+    ├── 00_ORIGINS/                      # earliest surviving project sources
+    └── 01_ORCHESTRATORS/                # author–AI development transcripts
 ```
+
+Earlier v01/v02 research files remain in place as development history. Private v03 corpus/key/order/salt files are intentionally absent from the public map until disclosure.
 
 ## Project boundaries
 
