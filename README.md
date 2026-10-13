@@ -8,7 +8,7 @@ This repository is the **public editorial workspace** for the project.
 
 ## Current book
 
-### Book I — GREED / ЖАДНОСТЬ
+### Book I — GREED
 
 The first novel is currently in Russian pre-final development.
 
@@ -25,7 +25,7 @@ SEVEN now includes a first public pilot for testing whether the seven working ca
 Start here:
 
 - **[research/SEVEN_ANNOTATION_PROTOCOL_v01.md](research/SEVEN_ANNOTATION_PROTOCOL_v01.md)** — pilot design, operational definitions, rater rules, reliability measure, and revision conditions.
-- **[research/annotation/CORPUS_v01.md](research/annotation/CORPUS_v01.md)** — frozen 24-unit instrument-development corpus.
+- **[research/annotation/CORPUS_v01.md](research/annotation/CORPUS_v01.md)** — frozen 28-unit instrument-development corpus.
 - **[research/annotation/CODEBOOK_v01.md](research/annotation/CODEBOOK_v01.md)** — coder-facing definitions and instructions.
 - **[research/annotation/RATINGS_TEMPLATE_v01.csv](research/annotation/RATINGS_TEMPLATE_v01.csv)** — blank ratings sheet.
 
