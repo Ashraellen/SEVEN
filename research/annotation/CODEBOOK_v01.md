@@ -31,37 +31,37 @@ Do not infer hidden facts that are not present in the case.
 
 ## Categories
 
-### PRIDE / ГОРДЫНЯ
+### PRIDE
 Self-evaluation, dignity, superiority, status, recognition, humiliation, or protection of a valued self-image becomes central to the decision.
 
 Confidence or ordinary self-respect alone is not enough.
 
-### GREED / ЖАДНОСТЬ
+### GREED
 Acquiring, retaining, accumulating, or recovering resources/advantage becomes central, especially where the boundary of “enough” shifts or loss makes disengagement harder.
 
 Ordinary saving or rational acquisition alone is not enough.
 
-### LUST / ПОХОТЬ
+### LUST
 Sexual or erotic desire, possession, access, pursuit, or gratification becomes central enough to alter judgment, boundaries, or treatment of another person.
 
 Attraction alone is not enough.
 
-### ENVY / ЗАВИСТЬ
+### ENVY
 Comparison with another person’s advantage, status, possession, relationship, recognition, or outcome becomes central to dissatisfaction or action.
 
 Admiration or aspiration alone is not enough.
 
-### GLUTTONY / ЧРЕВОУГОДИЕ
+### GLUTTONY
 Consumption, sensory reward, or repeated gratification beyond immediate need becomes disproportionately important.
 
 Do not use this as a generic label for every repetitive pleasure-seeking behaviour.
 
-### WRATH / ГНЕВ
+### WRATH
 A perceived violation, insult, threat, obstruction, or injustice drives retaliatory, punitive, aggressive, or escalating action.
 
 Ordinary boundary-setting alone is not enough.
 
-### SLOTH / ACEDIA / УНЫНИЕ
+### SLOTH / ACEDIA
 Disengagement, avoidance, refusal of effort, withdrawal from meaningful action, or resistance to confronting unwanted reality becomes consequential.
 
 Do not code fatigue, illness, disability, lack of resources, or ordinary rest as moral failure.
