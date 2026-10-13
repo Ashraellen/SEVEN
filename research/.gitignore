@@ -1,0 +1,26 @@
+# SEVEN v03: private material. Never commit before disclosure.
+private/
+**/private/
+*.KEY.csv
+KEY.csv
+ID_MAP.json
+ORDERS.json
+ROUND_SECRETS.json
+CORPUS_MASTER_v03.json
+CORPUS_MASTER_v03.private.json
+DESCRIPTION_ITEM_MAP.json
+rater_packets/
+build_out/
+__pycache__/
+*.pyc
+
+# Case-insensitive-safe catch-alls (the shipped master is named CORPUS_MASTER_v03.PRIVATE.json)
+*PRIVATE*
+*.private.json
+*.PRIVATE.json
+CORPUS_MASTER*
+*MASTER*.json
+audit_build/
+AUDIT_STEP1_*.csv
+!AUDIT_STEP1_TEMPLATE.csv
+!AUDIT_STEP2_TEMPLATE.csv
