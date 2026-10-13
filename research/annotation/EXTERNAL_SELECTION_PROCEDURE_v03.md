@@ -26,5 +26,5 @@ I did not write the codebook definitions or any synthetic case. I did not see th
 Name / date / signature or commit:
 
 ## Files
-- EXTERNAL_PROVENANCE_v03.csv: one row per candidate, including rejected ones.
+- EXTERNAL_PROVENANCE_TEMPLATE_v03.csv is the public blank template. The selector fills a private copy named EXTERNAL_PROVENANCE_v03.csv (ignored by git, not published before disclosure): one row per candidate, including rejected ones.
 - private/CORPUS_MASTER_v03.json: chosen passages are added with stratum "external", empty intended_primary, and a source_note.

@@ -8,6 +8,17 @@ This repository is the **public editorial and research workspace** for the proje
 
 Public project page: **[SEVEN — Human Vulnerabilities Research](https://www.ashraellen.com/ru/projects/seven/)** (Russian).
 
+## Which part is for you?
+
+This repository holds two separate things. Pick one:
+
+| You came for… | Go to |
+|---|---|
+| **the research**: the method, the protocol, how the seven categories are being tested | **[research/README.md](research/README.md)** (English). Read it first; it explains what exists, what is intentionally private and how to take part. |
+| **the manuscript**: reading or editing the novel GREED (Book I) | [For the editor — start here](#for-the-editor--start-here) below, then [EDITOR_GUIDE.md](EDITOR_GUIDE.md). |
+
+The two parts share a project but not their rules: the research layer is a pre-specified method with private blinded materials; the manuscript is a literary text under editorial review. The novels are not an experiment and do not prove the research hypotheses.
+
 ## Current book
 
 ### Book I — GREED
@@ -22,7 +33,7 @@ The project is still under active development.
 
 ## Research
 
-The current research instrument is **v03 — REVIEW CANDIDATE / NOT FROZEN**. No rater study has started.
+The current research instrument is **v03 — REVIEW CANDIDATE / NOT FROZEN**. In short: a complete draft of a method for testing whether independent readers apply the seven categories in the same way; it is open for independent checking and may still change; no rater has received anything and no data exist. The labels are explained in [research/README.md](research/README.md#what-the-status-labels-mean).
 
 The single public entry point is:
 
@@ -36,7 +47,7 @@ Current pre-freeze order:
 
 `independent audit → pretest → independent external stratum → final check → commitment/timestamp → freeze`
 
-v01 and v02 remain in the repository as development history. They are not the current instrument and should not be distributed to raters.
+v01 and v02 remain in the repository as development history. Each carries a **SUPERSEDED / HISTORICAL** banner. They are not the current instrument and should not be distributed to raters. The v02 key and master are public on purpose; see [research/annotation/HISTORICAL_v01_v02.md](research/annotation/HISTORICAL_v01_v02.md).
 
 ## For the editor — start here
 
@@ -121,9 +132,11 @@ SEVEN/
 │       ├── DESCRIPTION_CODING_INSTRUCTIONS_v03.md
 │       ├── AUDIT_CHECKLIST_v03.md
 │       ├── EXTERNAL_SELECTION_PROCEDURE_v03.md
-│       ├── *_TEMPLATE.csv
+│       ├── *_TEMPLATE_v03.csv / AUDIT_STEP*_TEMPLATE.csv   # blank templates
 │       ├── build_packets_v03.py
-│       └── analyze_ratings_v03.py
+│       ├── analyze_ratings_v03.py
+│       ├── HISTORICAL_v01_v02.md         # what the old v01/v02 files are
+│       └── *_v01.* / *_v02.*             # superseded history, bannered
 ├── editor/
 │   ├── STATUS.md
 │   └── Current/                         # current editorial manuscript
@@ -136,11 +149,11 @@ SEVEN/
     └── 01_ORCHESTRATORS/                # author–AI development transcripts
 ```
 
-Earlier v01/v02 research files remain in place as development history. Private v03 corpus/key/order/salt files are intentionally absent from the public map until disclosure.
+Earlier v01/v02 research files remain in place as bannered development history. Private v03 corpus/key/order/salt files are intentionally absent from the public map until disclosure (schedule: protocol v03, §14).
 
 ## Project boundaries
 
-The following distinctions are essential throughout the project:
+The following distinctions are essential throughout the project. Each line says that the thing on the left must not be mistaken for the thing on the right:
 
 ```text
 CAPTURE != CANON
@@ -153,6 +166,14 @@ PRE-FINAL != FINAL
 PUBLIC MIRROR != INTERNAL SOURCE OF TRUTH
 ```
 
+In plain words:
+
+- **CAPTURE, RETENTION, TRANSCRIPT** — something that was recorded, discussed, kept or preserved in the project history is not thereby part of the book. The archive shows how ideas developed; it does not bind the text.
+- **PROPOSED, EDITOR PROPOSAL** — a suggestion counts only after the author accepts it.
+- **HYPOTHESIS** — a working guess that the research tests. It is not a result.
+- **PRE-FINAL** — a working stage of the manuscript, not the final text.
+- **PUBLIC MIRROR** — this repository is a public copy for review. The author's internal working files remain the source of truth, and accepted changes are brought back there.
+
 The project currently explores a possible common mechanism beneath the seven vulnerabilities — including forms of non-acceptance, “not enough,” and attempts to alter reality rather than accept loss or limitation. This remains a **research hypothesis**, not a predetermined conclusion the novels are required to prove.
 
 ## Scope
@@ -163,8 +184,10 @@ Books II–VII remain future waypoints. Their existence as part of the seven-boo
 
 ## Editorial status
 
-For the exact current boundary, always consult:
+For the status log of the manuscript, see:
 
 **[editor/STATUS.md](editor/STATUS.md)**
+
+Which version of each section is current is determined by the file names in [editor/Current/](editor/Current/). The status log records review and acceptance status; its header says up to which date it is complete.
 
 The public repository is deliberately designed to make the work inspectable and challengeable. Its purpose is not to protect existing prose from criticism, but to make rigorous editorial review possible while keeping authorship and canon decisions explicit.

@@ -1,6 +1,10 @@
 # SEVEN — v02 REVIEW MANIFEST
 
-Status: REVIEW CANDIDATE / NOT FROZEN
+> **SUPERSEDED BY v03 / HISTORICAL / NOT A CURRENT INSTRUMENT.** This file is kept as development history only. Do not use it for rating, auditing or analysis. Current instrument: [v03 protocol](../SEVEN_ANNOTATION_PROTOCOL_v03.md). Explanation: [HISTORICAL_v01_v02.md](HISTORICAL_v01_v02.md).
+> 
+> The blob SHAs listed below were recorded before these historical banners were added; the banners change the blob SHAs of the .md files listed.
+
+Status: SUPERSEDED BY v03 / HISTORICAL / NOT A CURRENT INSTRUMENT (previous status: REVIEW CANDIDATE / NOT FROZEN)
 Date: 2026-10-13
 
 This manifest records the current v02 packet for external methodological review.
