@@ -66,7 +66,7 @@ The lint is a heuristic aid. Passing it does not replace the pretest or independ
 
 - The selector must not be the corpus author or the author of the definitions.
 - The selector chooses from at least four sources of different genres, using a pre-declared selection rule (for example random page, first passage of 60 to 180 words that describes a person's action and apparent motive), without reference to the seven categories.
-- Every passage is public domain or licensed for this use. Provenance is recorded in `EXTERNAL_PROVENANCE_v03.md`, private until the round closes.
+- Every passage is public domain or licensed for this use. Provenance is recorded in `EXTERNAL_PROVENANCE_v03.csv`, private until the round closes.
 - Passages may be lightly trimmed to length. They are not edited for clarity.
 - Without an external stratum of at least 8 units, no verdict stronger than "RETAINED (synthetic only)" can be issued (§9.4).
 
@@ -247,6 +247,6 @@ Instruments (public at freeze):
 - research/annotation/analyze_ratings_v03.py
 - research/annotation/COMMITMENT_v03.json (produced by `build`)
 
-Private until the round closes: master corpus, KEY.csv, ID_MAP.json, ORDERS.json, ROUND_SECRETS.json, EXTERNAL_PROVENANCE_v03.md.
+Private until the round closes: master corpus, KEY.csv, ID_MAP.json, ORDERS.json, ROUND_SECRETS.json, EXTERNAL_PROVENANCE_v03.csv.
 
 After the round: raw ratings, free descriptions, description-coder sheets, RELIABILITY_REPORT_v03.md, DISAGREEMENT_REVIEW_v03.md.
