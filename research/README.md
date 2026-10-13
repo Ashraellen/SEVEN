@@ -1,6 +1,6 @@
 # SEVEN Research
 
-This directory is the public methodological entry point for the research layer of **SEVEN**. The research files are in English. The public project page (in Russian) is [ashraellen.com/ru/projects/seven](https://www.ashraellen.com/ru/projects/seven/).
+This directory is the public methodological entry point for the research layer of **SEVEN**. The canonical research files are maintained here in English.\n\nWebsite entry point: [Ashraellen Research](https://www.ashraellen.com/en/research/) (English). **Ashraellen.com is multilingual:** if English is not convenient, open [the main site](https://www.ashraellen.com/) and choose your language; the Research section is available through the site’s language versions. Localized website pages are accessibility and navigation entry points, while this repository remains the methodological source of truth for SEVEN.
 
 SEVEN begins from seven historically persistent labels — pride, greed, lust, envy, gluttony, wrath, and sloth/acedia — but does **not** assume that they are seven natural psychological structures. The research programme asks whether useful human tendencies can become vulnerabilities, how such tendencies interact, and whether the inherited seven-part vocabulary survives explicit attempts to test and falsify it.
 
