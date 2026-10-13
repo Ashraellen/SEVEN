@@ -51,43 +51,43 @@ The pilot corpus may include synthetic cases and literary excerpts. Therefore:
 
 These are provisional operational descriptions for coding. They are deliberately broader than theological definitions and are subject to revision.
 
-### 1. PRIDE / ГОРДЫНЯ
+### 1. PRIDE
 
 A motive or reaction organised around self-evaluation, dignity, superiority, status, recognition, humiliation, or protection of a valued self-image.
 
 Do not code merely because a person has confidence or self-respect.
 
-### 2. GREED / ЖАДНОСТЬ
+### 2. GREED
 
 A motive organised around acquiring, retaining, accumulating, or recovering resources or advantage, especially where the boundary of “enough” becomes unstable or prior loss makes disengagement harder.
 
 Do not code ordinary saving or rational acquisition without evidence that the acquisition/retention process is central to the case.
 
-### 3. LUST / ПОХОТЬ
+### 3. LUST
 
 A motive organised around sexual or erotic desire, possession, access, pursuit, or gratification when that desire becomes central enough to alter judgment, boundaries, or treatment of another person.
 
 Do not code attraction by itself.
 
-### 4. ENVY / ЗАВИСТЬ
+### 4. ENVY
 
 A motive organised around comparison with another person’s advantage, status, possession, relationship, recognition, or outcome, where the comparison becomes central to dissatisfaction or action.
 
 Do not code admiration or aspiration without a comparison-driven negative component.
 
-### 5. GLUTTONY / ЧРЕВОУГОДИЕ
+### 5. GLUTTONY
 
 A motive organised around consumption, sensory reward, or repeated gratification beyond immediate need, where obtaining or repeating the reward becomes disproportionately important.
 
 This category is not limited to food in the pilot; however, coders must not use it as a generic label for every repetitive pleasure-seeking behaviour.
 
-### 6. WRATH / ГНЕВ
+### 6. WRATH
 
 A motive organised around perceived violation, insult, threat, obstruction, or injustice that produces retaliatory, punitive, aggressive, or escalating action.
 
 Do not code ordinary boundary-setting without a retaliatory or escalating component.
 
-### 7. SLOTH / ACEDIA / УНЫНИЕ
+### 7. SLOTH / ACEDIA
 
 A motive or state organised around disengagement, avoidance, refusal of effort, withdrawal from meaningful action, or resistance to confronting an unwanted reality when continued non-action itself becomes consequential.
 
