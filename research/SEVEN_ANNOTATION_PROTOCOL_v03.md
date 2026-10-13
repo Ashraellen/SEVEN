@@ -66,7 +66,7 @@ The lint is a heuristic aid. Passing it does not replace the pretest or independ
 
 - The selector must not be the corpus author or the author of the definitions.
 - The selector chooses from at least four sources of different genres, using a pre-declared selection rule (for example random page, first passage of 60 to 180 words that describes a person's action and apparent motive), without reference to the seven categories.
-- Every passage is public domain or licensed for this use. Provenance is recorded in `EXTERNAL_PROVENANCE_v03.csv`, private until the round closes.
+- Every passage is public domain or licensed for this use. Provenance is recorded in a private copy named `EXTERNAL_PROVENANCE_v03.csv` (filled from the public `EXTERNAL_PROVENANCE_TEMPLATE_v03.csv`), private until the round closes.
 - Passages may be lightly trimmed to length. They are not edited for clarity.
 - Without an external stratum of at least 8 units, no verdict stronger than "RETAINED (synthetic only)" can be issued (§9.4).
 
@@ -235,18 +235,39 @@ Any substantive change after freeze requires a new version or a documented amend
 | P13 | Rater self-inconsistency exclusion | above 20% of units |
 | P14 | Description-coder codeability | nominal alpha at least .667, otherwise F5 not interpretable |
 
-## 14. Files
+## 14. Files and publication schedule
 
-Instruments (public at freeze):
-- research/SEVEN_ANNOTATION_PROTOCOL_v03.md
-- research/annotation/ROUND_A_INSTRUCTIONS_v03.md
+Files fall into four classes. A file in a later class must not appear in the public repository before its time. `research/.gitignore` enforces this for the working names listed under "Private".
+
+### 14.1 Public now (already in the repository)
+- research/README.md (entry point)
+- research/SEVEN_ANNOTATION_PROTOCOL_v03.md (this file)
+- research/annotation/README_DECISIONS_v03.md
 - research/annotation/CODEBOOK_v03.md
+- research/annotation/ROUND_A_INSTRUCTIONS_v03.md
 - research/annotation/DESCRIPTION_CODING_INSTRUCTIONS_v03.md
-- research/annotation/RATER_DISCLOSURE_v03.csv
-- research/annotation/build_packets_v03.py
-- research/annotation/analyze_ratings_v03.py
-- research/annotation/COMMITMENT_v03.json (produced by `build`)
+- research/annotation/AUDIT_CHECKLIST_v03.md
+- research/annotation/EXTERNAL_SELECTION_PROCEDURE_v03.md
+- research/annotation/build_packets_v03.py and research/annotation/analyze_ratings_v03.py
+- Blank templates: research/annotation/RATER_DISCLOSURE_TEMPLATE_v03.csv, AUDIT_STEP1_TEMPLATE.csv, AUDIT_STEP2_TEMPLATE.csv, EXTERNAL_PROVENANCE_TEMPLATE_v03.csv
+- Historical, not current: v01 and v02 files, described in research/annotation/HISTORICAL_v01_v02.md. The v02 master and key are public on purpose and are not part of the blind v03 design.
 
-Private until the round closes: master corpus, KEY.csv, ID_MAP.json, ORDERS.json, ROUND_SECRETS.json, EXTERNAL_PROVENANCE_v03.csv.
+### 14.2 Private until the round closes (never committed before then)
+- The v03 master corpus (including the external stratum), with strata and intended labels
+- KEY.csv, ID_MAP.json, ORDERS.json, ROUND_SECRETS.json (contains the salt), DESCRIPTION_ITEM_MAP.json
+- Rater packets and returned rating sheets, Round A free descriptions, description-coder sheets
+- Filled audit sheets (AUDIT_STEP1_*.csv, AUDIT_STEP2_*.csv), AUDIT_REPORT_v03.md, AUDIT_CHANGELOG_v03.md
+- The filled provenance file EXTERNAL_PROVENANCE_v03.csv
+- Completed rater disclosure forms (RATER_DISCLOSURE_*.csv). These contain personal information and are never published individually; only an aggregated summary is published after the round.
 
-After the round: raw ratings, free descriptions, description-coder sheets, RELIABILITY_REPORT_v03.md, DISAGREEMENT_REVIEW_v03.md.
+### 14.3 Published at freeze
+- COMMITMENT_v03.json (hashes of the master, key, orders, instruments; produced by `build`)
+- FROZEN_MANIFEST_v03.md (repository commit SHA and file hashes; dates and pass/fail outcome of the audit and the pretest, without any case text)
+- The reference of the external timestamp or preregistration
+
+These files do not exist yet. They appear only at freeze.
+
+### 14.4 Published after the round closes
+- Everything in 14.2 except the individual disclosure forms: master corpus, KEY.csv, ID_MAP.json, ORDERS.json, ROUND_SECRETS.json (so that `verify` can be rerun against the commitment), raw ratings, free descriptions, description-coder sheets, audit sheets and report, completed provenance
+- RELIABILITY_REPORT_v03.md and .json, DISAGREEMENT_REVIEW_v03.md
+- An aggregated summary of the disclosure forms

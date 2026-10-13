@@ -1,6 +1,8 @@
 # SEVEN — CODER CORPUS v02
 
-Status: REVIEW CANDIDATE / NOT FROZEN
+> **SUPERSEDED BY v03 / HISTORICAL / NOT A CURRENT INSTRUMENT.** This file is kept as development history only. Do not use it for rating, auditing or analysis. Current instrument: [v03 protocol](../SEVEN_ANNOTATION_PROTOCOL_v03.md). Explanation: [HISTORICAL_v01_v02.md](HISTORICAL_v01_v02.md).
+
+Status: SUPERSEDED BY v03 / HISTORICAL / NOT A CURRENT INSTRUMENT (previous status: REVIEW CANDIDATE / NOT FROZEN)
 Language: English
 Cases: 42
 

@@ -24,3 +24,14 @@ audit_build/
 AUDIT_STEP1_*.csv
 !AUDIT_STEP1_TEMPLATE.csv
 !AUDIT_STEP2_TEMPLATE.csv
+
+# Filled-in working copies of the public templates (personal data / undisclosed provenance).
+# The blank templates are named *_TEMPLATE_v03.csv and stay tracked.
+RATER_DISCLOSURE*.csv
+!RATER_DISCLOSURE_TEMPLATE_v03.csv
+EXTERNAL_PROVENANCE*.csv
+!EXTERNAL_PROVENANCE_TEMPLATE_v03.csv
+AUDIT_STEP2_*.csv
+!AUDIT_STEP2_TEMPLATE.csv
+AUDIT_REPORT_v03.md
+AUDIT_CHANGELOG_v03.md

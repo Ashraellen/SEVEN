@@ -2,6 +2,44 @@
 
 Updated: 2026-09-20
 
+## Read this first (consistency note added 2026-10-13)
+
+This log was last updated on **2026-09-20** and was not re-assessed on 2026-10-13. Only a file inventory was compared with `editor/Current/`. Two things follow:
+
+- **Which version of a section is current** is determined by the file names in [Current/](Current/), not by this log.
+- **Review and acceptance status** is recorded below only for the files named in the entries. Where the log names an older version, or has no entry, the status of the current file is **not recorded here; ask the author** and do not assume it is accepted. The section "Important current boundary" below describes the boundary as of 2026-09-20 (Chapter 4 §4.5); `Current/` now also contains Chapter 5 and Chapter 6 files.
+
+Inventory of `editor/Current/` against this log (23 files):
+
+| Section | Current file | Relation to this log |
+|---|---|---|
+| §1.1 | `GREED_RU_CH01_SEC01_PF_v06.md` | log names GREED_RU_CH01_SEC01_PF_v05.md — **status of this newer file not recorded** |
+| §1.2 | `GREED_RU_CH01_SEC02_PF_v03.md` | status entry below names this file (status as of 2026-09-20) |
+| §1.3 | `GREED_RU_CH01_SEC03_PF_v04.md` | status entry below names this file (status as of 2026-09-20) |
+| §1.4 | `GREED_RU_CH01_SEC04_PF_v03.md` | status entry below names this file (status as of 2026-09-20) |
+| §1.5 | `GREED_RU_CH01_SEC05_PF_v03.md` | status entry below names this file (status as of 2026-09-20) |
+| §2.1 | `GREED_RU_CH02_SEC01_PF_v04.md` | status entry below names this file (status as of 2026-09-20) |
+| §2.2 | `GREED_RU_CH02_SEC02_PF_v03.md` | status entry below names this file (status as of 2026-09-20) |
+| §2.3 | `GREED_RU_CH02_SEC03_PF_v02.md` | status entry below names this file (status as of 2026-09-20) |
+| §3.1 | `GREED_RU_CH03_SEC01_PF_v03.md` | status entry below names this file (status as of 2026-09-20) |
+| §3.2 | `GREED_RU_CH03_SEC02_PF_v02.md` | status entry below names this file (status as of 2026-09-20) |
+| §3.3 | `GREED_RU_CH03_SEC03_PF_v03.md` | status entry below names this file (status as of 2026-09-20) |
+| §3.4 | `GREED_RU_CH03_SEC04_PF_v05.md` | status entry below names this file (status as of 2026-09-20) |
+| §3.5 | `GREED_RU_CH03_SEC05_PF_v02.md` | status entry below names this file (status as of 2026-09-20) |
+| §4.1 | `GREED_RU_CH04_SEC01_PF_v04.md` | status entry below names this file (status as of 2026-09-20) |
+| §4.2 | `GREED_RU_CH04_SEC02_PF_v03.md` | status entry below names this file (status as of 2026-09-20) |
+| §4.3 | `GREED_RU_CH04_SEC03_PF_v03.md` | **no entry in this log** |
+| §4.4 | `GREED_RU_CH04_SEC04_PF_v03.md` | **no entry in this log** |
+| §4.5 | `GREED_RU_CH04_SEC05_PF_v04.md` | log names GREED_RU_CH04_SEC05_PF_v03.md — **status of this newer file not recorded** |
+| §5.1 | `GREED_RU_CH05_SEC01_PF_v01.md` | **no entry in this log** |
+| §5.2 | `GREED_RU_CH05_SEC02_PF_v01.md` | **no entry in this log** |
+| §5.3 | `GREED_RU_CH05_SEC03_PF_v01.md` | **no entry in this log** |
+| §5.4 | `GREED_RU_CH05_SEC04_PF_v01.md` | **no entry in this log** |
+| §6.1 | `GREED_RU_CH06_SEC01_PF_v01.md` | **no entry in this log** |
+
+For Chapter 4 §4.3 and §4.4 there is no per-section entry; the boundary note below says that earlier Chapter 4 sections through §4.4 had passed the internal author gate as of 2026-09-20.
+
+
 ## Working corpus
 
 `editor/Current/` contains one latest working version for every available section through Chapter 4 §4.5.
@@ -324,7 +362,7 @@ Accepted decisions:
 
 AUTHOR approved integration into APM; section-level AUTHOR ACCEPTED remains a separate gate.
 
-## Important current boundary
+## Important current boundary (as of 2026-09-20)
 
 Chapter 4 §4.5:
 `GREED_RU_CH04_SEC05_PF_v03.md`

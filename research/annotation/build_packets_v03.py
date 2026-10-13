@@ -441,7 +441,7 @@ def instrument_hashes(instr, protocol_path):
         "ROUND_A_INSTRUCTIONS_v03.md": instr / "ROUND_A_INSTRUCTIONS_v03.md",
         "CODEBOOK_v03.md": instr / "CODEBOOK_v03.md",
         "DESCRIPTION_CODING_INSTRUCTIONS_v03.md": instr / "DESCRIPTION_CODING_INSTRUCTIONS_v03.md",
-        "RATER_DISCLOSURE_v03.csv": instr / "RATER_DISCLOSURE_v03.csv",
+        "RATER_DISCLOSURE_TEMPLATE_v03.csv": instr / "RATER_DISCLOSURE_TEMPLATE_v03.csv",
         "build_packets_v03.py": Path(__file__).resolve(),
         "analyze_ratings_v03.py": instr / "analyze_ratings_v03.py",
         "SEVEN_ANNOTATION_PROTOCOL_v03.md": Path(protocol_path) if protocol_path else instr.parent / "SEVEN_ANNOTATION_PROTOCOL_v03.md",

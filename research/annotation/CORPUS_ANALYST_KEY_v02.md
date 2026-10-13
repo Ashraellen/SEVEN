@@ -1,6 +1,10 @@
 # SEVEN — CORPUS ANALYST KEY v02
 
-Status: ANALYST ONLY / DO NOT PROVIDE TO RATERS
+> **SUPERSEDED BY v03 / HISTORICAL / NOT A CURRENT INSTRUMENT.** This file is kept as development history only. Do not use it for rating, auditing or analysis. Current instrument: [v03 protocol](../SEVEN_ANNOTATION_PROTOCOL_v03.md). Explanation: [HISTORICAL_v01_v02.md](HISTORICAL_v01_v02.md).
+> 
+> This v02 key is public on purpose. v02 was never deployed to raters and has been replaced, so its answers are material of a retired version, not part of the blind v03 design. v03 may not carry v02 case texts into its analysis strata unrevised (protocol v03, C7). Nothing in this file says anything about the v03 labels.
+
+Status: SUPERSEDED BY v03 / HISTORICAL / NOT A CURRENT INSTRUMENT (previous status: ANALYST ONLY / DO NOT PROVIDE TO RATERS)
 Protocol: ../SEVEN_ANNOTATION_PROTOCOL_v02.md
 
 Display IDs are randomized and are not the master IDs. Intended labels describe case construction, not ground truth.

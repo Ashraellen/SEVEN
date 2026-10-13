@@ -653,7 +653,7 @@ def main(argv=None):
     p.add_argument("--key", required=True, help="private/KEY.csv")
     p.add_argument("--ratings-dir", required=True, help="directory of locked Round B sheets named R01.csv, R02.csv ...")
     p.add_argument("--round-a-dir", help="directory of locked Round A sheets named like the Round B sheets (completion check)")
-    p.add_argument("--disclosure", help="collected RATER_DISCLOSURE csv")
+    p.add_argument("--disclosure", help="collected rater disclosure forms in one csv (private; filled from RATER_DISCLOSURE_TEMPLATE_v03.csv)")
     p.add_argument("--desc-map", help="private/DESCRIPTION_ITEM_MAP.json")
     p.add_argument("--desc-coder-1")
     p.add_argument("--desc-coder-2")
