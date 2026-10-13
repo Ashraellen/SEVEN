@@ -4,7 +4,9 @@
 
 The traditional labels — **greed, envy, pride, wrath, lust, gluttony, sloth** — are used as culturally recognizable names, not as a theological doctrine. Each book is intended to stand on its own as a novel while also examining a different way human beings respond to desire, insufficiency, fear, loss, self-image, power, attachment, and reality.
 
-This repository is the **public editorial workspace** for the project.
+This repository is the **public editorial and research workspace** for the project.
+
+Public project page: **[SEVEN — Human Vulnerabilities Research](https://www.ashraellen.com/ru/projects/seven/)** (Russian).
 
 ## Current book
 
