@@ -2,10 +2,22 @@
 """Build the rater-facing SEVEN v02 packet from the analyst master.
 
 The rater packet contains only neutral display IDs and case text.
-Analyst metadata remain in the master and generated private mapping.
+The deterministic shuffle matches the published v02 candidate packet.
 """
-import argparse, json, random
+import argparse, json
 from pathlib import Path
+
+def lcg_shuffle(items, seed):
+    state = seed & 0xFFFFFFFF
+    def rnd():
+        nonlocal state
+        state = (1664525 * state + 1013904223) & 0xFFFFFFFF
+        return state / 4294967296
+    out = list(items)
+    for i in range(len(out)-1, 0, -1):
+        j = int(rnd() * (i+1))
+        out[i], out[j] = out[j], out[i]
+    return out
 
 def main():
     ap=argparse.ArgumentParser()
@@ -16,8 +28,7 @@ def main():
     args=ap.parse_args()
 
     data=json.loads(Path(args.master).read_text(encoding="utf-8"))
-    cases=list(data["cases"])
-    random.Random(args.seed).shuffle(cases)
+    cases=lcg_shuffle(data["cases"], args.seed)
 
     mapping={}
     blocks=[]
