@@ -20,17 +20,21 @@ The project is still under active development.
 
 ## Research pilot
 
-SEVEN now includes a first public pilot for testing whether the seven working categories can be distinguished reproducibly by independent readers.
+The current candidate research instrument is **v02**. It is under external review and is **not frozen yet**.
 
 Start here:
 
-- **[research/SEVEN_ANNOTATION_PROTOCOL_v01.md](research/SEVEN_ANNOTATION_PROTOCOL_v01.md)** — pilot design, operational definitions, rater rules, reliability measure, and revision conditions.
-- **[research/annotation/CORPUS_v01.md](research/annotation/CORPUS_v01.md)** — frozen 28-unit instrument-development corpus.
-- **[research/annotation/CODEBOOK_v01.md](research/annotation/CODEBOOK_v01.md)** — coder-facing definitions and instructions.
-- **[research/annotation/RATINGS_TEMPLATE_v01.csv](research/annotation/RATINGS_TEMPLATE_v01.csv)** — blank ratings sheet.
+- **[research/SEVEN_ANNOTATION_PROTOCOL_v02.md](research/SEVEN_ANNOTATION_PROTOCOL_v02.md)** — current candidate protocol.
+- **[research/annotation/CODER_CORPUS_v02.md](research/annotation/CODER_CORPUS_v02.md)** — rater-safe 42-case corpus with neutral display IDs and no source/stratum leakage.
+- **[research/annotation/CODEBOOK_v02.md](research/annotation/CODEBOOK_v02.md)** — coder-facing definitions and two-stage instructions.
+- **[research/annotation/RATINGS_TEMPLATE_v02.csv](research/annotation/RATINGS_TEMPLATE_v02.csv)** — blank ratings sheet.
+- **[research/annotation/CORPUS_ANALYST_KEY_v02.md](research/annotation/CORPUS_ANALYST_KEY_v02.md)** — analyst-only construction key; do not give this file to raters.
+- **[research/annotation/CORPUS_MASTER_v02.json](research/annotation/CORPUS_MASTER_v02.json)** — analyst master used to generate the rater packet.
+- **[research/annotation/build_coder_packet.py](research/annotation/build_coder_packet.py)** — deterministic packet builder.
 
-This is a method-development pilot, not validation of a seven-factor psychological theory. The corpus includes synthetic, manuscript-derived, and source-informed composite cases so that the coding instructions can be stress-tested before any externally assembled empirical corpus is attempted.
+v02 is an instrument-development pilot, not validation of a seven-factor psychological theory. It includes four central cases for each category plus mixed-mechanism cases, collects free motive descriptions before labels, and remains editable until the external review is complete.
 
+The earlier **v01** files are retained as development history and should not be distributed to raters.
 
 ## For the editor — start here
 
